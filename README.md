@@ -1,2 +1,2 @@
 # demo
-demo tests
+demo tests of different skills
